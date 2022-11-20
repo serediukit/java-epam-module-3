@@ -3,7 +3,7 @@
 
 <p7:Test xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xmlns:p7="http://nure.ua/your_last_name/practice7"
-         xsi:schemaLocation="http://nure.ua/your_last_name/practice7 input.xsd">
+         xsi:schemaLocation="http://nure.ua/your_last_name/practice7 ../../Desktop/topic08/input.xsd">
 
     <Question>
         <QuestionText>Вопрос 1</QuestionText>
